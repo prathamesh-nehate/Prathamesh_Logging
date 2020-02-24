@@ -1,0 +1,10 @@
+2020-02-24 23:12:17 INFO  Material:29 - Material StandardCreated
+2020-02-24 23:12:17 INFO  Material:29 - Material Above StandardCreated
+2020-02-24 23:12:17 INFO  Material:29 - Material High StandardCreated
+2020-02-24 23:12:17 INFO  Material:29 - Material High Standard + AutomatedCreated
+2020-02-24 23:12:17 INFO  Construction:36 - Material List Created
+2020-02-24 23:13:43 INFO  Material:29 - Material StandardCreated
+2020-02-24 23:13:43 INFO  Material:29 - Material Above StandardCreated
+2020-02-24 23:13:43 INFO  Material:29 - Material High StandardCreated
+2020-02-24 23:13:43 INFO  Material:29 - Material High Standard + AutomatedCreated
+2020-02-24 23:13:43 INFO  Construction:36 - Material List Created

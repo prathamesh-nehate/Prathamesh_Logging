@@ -1,0 +1,20 @@
+2020-02-24 23:21:25 INFO  ClientApp:26 - main method  Called
+2020-02-24 23:21:25 INFO  Material:29 - Material StandardCreated
+2020-02-24 23:21:25 INFO  Material:29 - Material Above StandardCreated
+2020-02-24 23:21:25 INFO  Material:29 - Material High StandardCreated
+2020-02-24 23:21:25 INFO  Material:29 - Material High Standard + AutomatedCreated
+2020-02-24 23:21:25 INFO  Construction:36 - Material List Created
+2020-02-24 23:21:25 INFO  ClientApp:13 - displayLabael Called
+2020-02-24 23:21:53 INFO  ClientApp:22 - displayMenu Called
+2020-02-24 23:21:55 INFO  ClientApp:40 - Value Accepted
+2020-02-24 23:21:55 INFO  ClientApp:45 - Cost Successfully Calculated
+2020-02-24 23:30:42 INFO  ClientApp:28 - main method called
+2020-02-24 23:30:42 INFO  ClientApp:17 - displayLabael Called
+2020-02-24 23:31:01 INFO  ClientApp:23 - displayMenu Called
+2020-02-24 23:31:03 INFO  ClientApp:48 - Values accepted
+2020-02-24 23:31:03 INFO  ClientApp:54 - Simple Interest Calculated Successfully
+2020-02-24 23:31:11 INFO  ClientApp:28 - main method called
+2020-02-24 23:31:11 INFO  ClientApp:17 - displayLabael Called
+2020-02-24 23:31:22 INFO  ClientApp:23 - displayMenu Called
+2020-02-24 23:31:23 INFO  ClientApp:48 - Values accepted
+2020-02-24 23:31:23 INFO  ClientApp:60 - Compound Interest Calculated Successfully
